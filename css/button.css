@@ -1,0 +1,19 @@
+.button {
+     /* Green */
+     
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 12px;background-color: #c14f3e;padding: 8px 18px;}
+.button3 {border-radius: 12px;background-color: #f70404;padding: 12px 24px;}
+.button4 {border-radius: 12px;background-color: #41be89;}
+.button5 {border-radius:12px;background-color: #41be89;}
